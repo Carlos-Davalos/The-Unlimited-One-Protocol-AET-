@@ -39,3 +39,21 @@ The "Forever" Clause: The triggerDailyIssuance function doesn't have an "end dat
 Stability via Burn: The transfer function ensures that as the "Backbone" is used for AI or Energy, the supply is sucked into a Black Hole address (address(0)), creating the "Staircase" value growth you need OpenZeppelin Burnable.
 ---------------------------------------------------------------------------
 Official Contract Address (Sepolia Testnet): 0x284bFF35FE7ED4d2dC01420fd2199089A1AA7e0A
+---------------------------------------------------------------------------
+To participate in the Genesis phase of the Unlimited One, follow these steps to acquire the token for testing:
+1. Prepare Your Wallet
+Install MetaMask.
+Switch your network to Sepolia Testnet.
+Import the Token: Click "Import Tokens" and paste the Contract Address:
+0x284bFF35FE7ED4d2dC01420fd2199089A1AA7e0A
+2. Get "Buying Power" (Free Sepolia ETH)
+You need test ETH to "buy" AET. Get it for free from these verified faucets:
+Google Cloud Web3 Faucet (Fastest)
+Alchemy Sepolia Faucet
+3. How to Swap (The "Buy" Process)
+Since this is a decentralized protocol, we use Uniswap (Sepolia):
+Connect Wallet: Ensure MetaMask is on Sepolia.
+Select Token: In the "Swap" box, click the bottom token and paste the address 0x284bFF35FE7ED4d2dC01420fd2199089A1AA7e0A.
+Enter Amount: Type how much Sepolia ETH you want to spend.
+Swap: Confirm the transaction. You now own a piece of the Unlimited One.
+
