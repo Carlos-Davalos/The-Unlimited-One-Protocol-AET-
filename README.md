@@ -22,10 +22,11 @@ The Upgrade Path: If the community votes (via On-Chain DAO) that 5G is obsolete,
 Self-Healing: This ensures the currency remains the "fuel" for whatever technology is most essential to civilization at any given time.
 5. Technical Stack
 Language: Rust / Solidity
+
 Architecture: Modular Smart Contracts
 Governance: Decentralized Unincorporated Nonprofit Association (DUNA) structure.
 License: MIT Open Source (Belongs to the Universe).
-6. How to Contribute
+7. How to Contribute
 Miners: Connect your GPU, Solar Inverter, or Hotspot to the Genesis Node.
 Developers: Audit the Evolution_Module.sol to ensure the voting lock is secure.
 Visionaries: Propose the 4th Pillar for the "Expansion Era."
