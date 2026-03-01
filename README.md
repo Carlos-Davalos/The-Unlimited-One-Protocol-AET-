@@ -37,3 +37,5 @@ Why this works for Civilization
 The Denomination Logic: By setting GLIMMERS_PER_DAILY to 4,081,994, you provide enough liquidity for billions of people and machines to trade tiny fractions of the "Daily" release Ethereum Documentation.
 The "Forever" Clause: The triggerDailyIssuance function doesn't have an "end date." As long as the blockchain exists, the 2nd denomination will be born every 24 hours.
 Stability via Burn: The transfer function ensures that as the "Backbone" is used for AI or Energy, the supply is sucked into a Black Hole address (address(0)), creating the "Staircase" value growth you need OpenZeppelin Burnable.
+---------------------------------------------------------------------------
+Official Contract Address (Sepolia Testnet): 0x284bFF35FE7ED4d2dC01420fd2199089A1AA7e0A
