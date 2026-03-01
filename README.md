@@ -31,3 +31,9 @@ Miners: Connect your GPU, Solar Inverter, or Hotspot to the Genesis Node.
 Developers: Audit the Evolution_Module.sol to ensure the voting lock is secure.
 Visionaries: Propose the 4th Pillar for the "Expansion Era."
 "The Unlimited One is not a bank; it is a law of nature. It grows as we grow. It burns as we build."
+
+---------------------------------------------------------------------------
+Why this works for Civilization
+The Denomination Logic: By setting GLIMMERS_PER_DAILY to 4,081,994, you provide enough liquidity for billions of people and machines to trade tiny fractions of the "Daily" release Ethereum Documentation.
+The "Forever" Clause: The triggerDailyIssuance function doesn't have an "end date." As long as the blockchain exists, the 2nd denomination will be born every 24 hours.
+Stability via Burn: The transfer function ensures that as the "Backbone" is used for AI or Energy, the supply is sucked into a Black Hole address (address(0)), creating the "Staircase" value growth you need OpenZeppelin Burnable.
